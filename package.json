@@ -1,6 +1,6 @@
 {
   "name": "nodejs-letsencrypt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS script to wrap your ./well-known/acme-challenge path!",
   "main": "index.js",
   "scripts": {
