@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-letsencrypt",
+  "version": "1.0.0",
+  "description": "NodeJS script to wrap your ./well-known/acme-challenge path!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faran312/nodejs-letsencrypt.git"
+  },
+  "keywords": [],
+  "author": "Muhamad Farid Ramadhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faran312/nodejs-letsencrypt/issues"
+  },
+  "homepage": "https://github.com/faran312/nodejs-letsencrypt#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
