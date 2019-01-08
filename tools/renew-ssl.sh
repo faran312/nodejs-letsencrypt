@@ -1,1 +1,1 @@
-$MAIN_DIR/certbot-auto renew
+$MAIN_DIR/certbot-auto renew --webroot -w $PATH_NAME
